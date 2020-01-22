@@ -1,5 +1,5 @@
 <odoo>
-    <data>
+    
         <!--  -->
         <!--   <record id="object0" model="gitdemo.gitdemo"> -->
         <!--     <field name="name">Object 0</field> -->
@@ -26,5 +26,5 @@
         <!--     <field name="value">40</field> -->
         <!--   </record> -->
         <!--  -->
-    </data>
+ 
 </odoo>
