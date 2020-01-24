@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20200115T035737Z - 75299@suphyu-System-Product-Name
+DTSTART:20200105T120000Z
+DTEND:20200105T190000Z
+ATTENDEE:MAILTO:chinaexport@yourcompany.example.com
+ATTENDEE:MAILTO:deltapc@yourcompany.example.com
+ATTENDEE:MAILTO:admin@yourcompany.example.com
+CREATED:20200115T035737Z
+DESCRIPTION:Discussion with partner for product.
+SUMMARY:Initial discussion
+END:VEVENT
+END:VCALENDAR
